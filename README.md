@@ -16,7 +16,7 @@ First, 100 objects are produced and they move randomly. During the random moveme
 **Adapter**
 **Builder**
 **Composite**
-**Visitor**
+
 ## Contributing
 https://github.com/cr4yz/Unity3d-QuadTree-Collision-Detection
 
