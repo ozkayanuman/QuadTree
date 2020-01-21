@@ -3,14 +3,15 @@
 Spawn lots of entities in the world with varying sizes. When an entity bump into another, takes 1 damage. Each entity has 5 health, when they die, spawn another entity in a random position within the tree
 
 ## Design Patterns
-**Singelton
-**Visitor
-**Observer
-**Adapter
-**Builder
-**Composite
-**Visitor
-**
+**Singelton**
+**Visitor**
+**Observer**
+**Adapter**
+**Builder**
+**Composite**
+**Visitor**
+## Contributing
+https://github.com/cr4yz/Unity3d-QuadTree-Collision-Detection
 
 **A simple collision detection system. Includes two algorithms:**
 
