@@ -164,12 +164,4 @@ namespace Peril.Physics
     }
 }
 
-/** 
- * 
- * Random reading material
- * https://www.lhup.edu/~dsimanek/ideas/bounce.htm
- * http://www.red3d.com/cwr/steer/Doorway.html
- * http://gamedev.stackexchange.com/questions/18436/most-efficient-aabb-vs-ray-collision-algorithms/18459#18459
- * http://gamedev.stackexchange.com/questions/47888/find-the-contact-normal-of-rectangle-collision
- * 
-**/
+
