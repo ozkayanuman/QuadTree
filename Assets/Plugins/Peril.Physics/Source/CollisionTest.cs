@@ -1,9 +1,4 @@
-﻿/**
- * 
- * Author: Jake.E
- * Purpose: Provides static methods for testing collisions and generating results.
- * 
- **/
+
 
 
 using UnityEngine;
