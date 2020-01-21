@@ -1,11 +1,12 @@
 # QuadTree Collision Detection
 ## Describtion
-*Spawn lots of entities in the world with varying sizes. When an entity bump into another, takes 1 damage. Each entity has 5 health, when they die, spawn another entity in a random position within the tree*
+*This variation of a quadtree is similar to a binary search tree; however, rather than sorting on just one well-ordered element, it sorts on a pair of well-ordered elements. That is, it stores two-dimensional vectors which we will denote as (x, y) and each node has up to four children.*
 
 ## Requirements
-This variation of a quadtree is similar to a binary search tree; however, rather than sorting on just one well-ordered element, it sorts on a pair of well-ordered elements. That is, it stores two-dimensional vectors which we will denote as (x, y) and each node has up to four children.
+*Spawn lots of entities in the world with varying sizes. When an entity bump into another, takes 1 damage. each entity has 5 health, when they die, spawn another entity in a random position within the tree*
 
-First, 100 objects are produced and they move randomly. During the random movement of objects, we can see the operation of the QuadTree algorithm on Gizmos. user can increase the number of objects if he wants
+## Usage
+First, 100 objects are produced and they move randomly. During the random movement of objects, we can see the operation of the QuadTree algorithm on Gizmos. On the UI, user can increase the number of objects if he wants and restart with default objects value.
 
 
 ## Design Patterns
