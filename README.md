@@ -17,6 +17,7 @@ First, 100 objects are produced and they move randomly. During the random moveme
 **Builder**
 **Composite**
 
+
 ## Contributing
 https://github.com/cr4yz/Unity3d-QuadTree-Collision-Detection
 
@@ -25,7 +26,10 @@ https://github.com/cr4yz/Unity3d-QuadTree-Collision-Detection
 Brute checks all bodies against all other bodies, and it can be hard on performance and only recommended for 100 or less bodies.
 QuadTree queries a QuadTree to test collisions against nearby bodies only. Much more performant than Brute.
 
-## Frame Debugger Examples
+## Frame Debugger 
+*The Frame Debugger lets you freeze playback for a running game on a particular frame and view the individual draw calls that are used to render that frame. As well as listing the drawcalls, the debugger also lets you step through them one-by-one so you can see in great detail how the Scene
+ is constructed from its graphical elements.*
+ *In this project we can see the rendering step by step with  using Frame Debugger*
 ![s1](https://user-images.githubusercontent.com/52382803/72842959-a0e9b880-3caa-11ea-9cc3-795f31c6a7c4.png)
 ![s2](https://user-images.githubusercontent.com/52382803/72842991-b2cb5b80-3caa-11ea-8456-2ab083ca685f.png)
 ![s3](https://user-images.githubusercontent.com/52382803/72842996-b52db580-3caa-11ea-96fc-2091b8f4acc0.png)
