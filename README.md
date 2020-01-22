@@ -35,3 +35,8 @@ QuadTree queries a QuadTree to test collisions against nearby bodies only. Much 
 ![s3](https://user-images.githubusercontent.com/52382803/72842996-b52db580-3caa-11ea-96fc-2091b8f4acc0.png)
 ![s4](https://user-images.githubusercontent.com/52382803/72843000-b65ee280-3caa-11ea-853c-fb842c165bbe.png)
 ![s5](https://user-images.githubusercontent.com/52382803/72843003-b7900f80-3caa-11ea-856d-5a5ea9de855c.png)
+
+## Conclusion
+* Using QuadTree algorithm for collision detection is more efficent to other ways.
+* We need to use OOP
+* I did not use 3rd party tools but it can be use for drawing gizmos, benchmark testing and Garbage Collection
